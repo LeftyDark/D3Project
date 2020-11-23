@@ -1,0 +1,88 @@
+{
+ "name": "dataaa",
+ "children": [
+
+  {"name": "tuesday",
+   "children": [
+    {"name": "Purple Wokey", "value": 90},  
+    {"name": "Polka Ch", "value": 28},
+    {"name": "Nene Ch", "value": 15},
+    {"name": "Rhymestyle", "value": 15},  
+    {"name": "Dzeeff", "value": 14},
+    {"name": "DotoDoya", "value": 21},
+    {"name": "D-Free", "value": 22},  
+    {"name": "MBTYugioh", "value": 5},
+    {"name": "Cimoooooooo", "value": 16},
+    {"name": "VTuber for All", "value": 4},
+    {"name": "Haachama Ch", "value": 30}
+   ]
+  },
+
+  {"name": "wednesday",
+   "children": [
+    {"name":"Haachama Ch","value":120},
+    {"name":"MegaCapitalG","value":15},
+    {"name":"Dzeeff","value":8},
+    {"name":"All Elite Wrestling","value":7},
+    {"name":"D-Free","value":43},
+    {"name":"Nene Ch","value":90}
+   ]
+  },
+
+ {"name": "thursday",
+   "children": [
+    {"name":"Nene Ch","value":20},
+    {"name":"DotoDoya","value":18},
+    {"name":"SimpleFlips","value":15},
+    {"name":"BladeYGO","value":8},
+    {"name":"Purple Wokey","value":13},
+    {"name":"MBTYugioh","value":16},
+    {"name":"Reze","value":3}
+   ]
+  },
+
+ {"name": "friday",
+   "children": [
+    {"name":"Kiara Ch","value":43},
+    {"name":"Simpleflips","value":50},
+    {"name":"D-Free","value":12},
+    {"name":"DotoDoya","value":17},
+    {"name":"Dzeeff","value":10},
+    {"name":"Polka Ch","value":30},
+    {"name":"Bandai Namco eSports","value":20}]
+  },
+
+ {"name": "saturday",
+   "children": [{"name":"Jim Sterling","value":41},
+    {"name":"Bathanial Nandy","value":22},
+    {"name":"DotoDoya","value":20},
+    {"name":"Farfa","value":13},
+    {"name":"Summoning Salt","value":20},
+    {"name":"Mori Calliope Ch","value":99},
+    {"name":"Purple Wokey","value":8}]
+  },
+
+ {"name": "sunday",
+   "children": [{"name":"D-Free","value":63},
+    {"name":"PeanutButterGamer","value":12},
+    {"name":"Dzeeff","value":12},
+    {"name":"MegaCapitalG","value":12},
+    {"name":"Rhymestyle","value":19},
+    {"name":"BladeYGO","value":11},
+    {"name":"Summoning Salt","value":27},
+    {"name":"Simpleflips","value":39},
+    {"name":"Jamezietocool","value":9}]
+  },
+
+ {"name": "monday",
+   "children": [{"name":"Mayro","value":13},
+    {"name":"Purple Wokey","value":13},
+    {"name":"Cimoooooooo","value":49},
+    {"name":"MBTYugioh","value":59},
+    {"name":"DotoDoya","value":17},
+    {"name":"HardLeg Gaming","value":5}]
+  }
+
+
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "1e304c7c78e611b5",
+  "main": "1e304c7c78e611b5@361.js",
+  "version": "361.0.0",
+  "homepage": "https://observablehq.com/d/1e304c7c78e611b5",
+  "author": {
+    "name": "Mariel Folkerts",
+    "url": "https://observablehq.com/@mfolkerts"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
